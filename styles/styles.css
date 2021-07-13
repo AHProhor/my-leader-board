@@ -5,6 +5,7 @@
 body {
   font-family: "Poppins", sans-serif;
   background-color: #f3f1ff;
+  margin: 0;
 }
 main {
   display: flex;
@@ -171,4 +172,16 @@ hr {
   height: 30px;
   background: #ffe4e8;
   border-radius: 14.6913px;
+}
+/* -------------------------
+          Footer style part
+---------------------------------- */
+.last-part {
+  width: 100%;
+  height: 94px;
+  background: #562eff;
+}
+.last-part p {
+  color: #ffffff;
+  text-align: center;
 }
